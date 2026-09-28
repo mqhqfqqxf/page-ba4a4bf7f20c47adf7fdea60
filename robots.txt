@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.vvbnmm.cn/sitemap.xml
